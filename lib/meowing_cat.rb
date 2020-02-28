@@ -2,8 +2,8 @@ class Cat
 
   attr_accessor :name
 
-  def name= (maru)
-    @name = maru 
+  def name= (name)
+    @name = maru
   end
 
   def name
