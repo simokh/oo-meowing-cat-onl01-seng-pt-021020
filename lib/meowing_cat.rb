@@ -1,7 +1,6 @@
 class Cat
 
   attr_accessor :name
-  name= maru 
 
   def name= (name)
     @name = maru
