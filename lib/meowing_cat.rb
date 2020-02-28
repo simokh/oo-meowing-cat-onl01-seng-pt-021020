@@ -3,15 +3,17 @@ class Cat
 
   # attr_accessor :name
   attr_accessor :name
-  maru= Cat.new
 
+def meow
+  puts "meow"
+end 
 
-  def name= (name)
-  @name = name
-  end
-
-  def name
-    name
-    maru.name = "maru"
-  end
+  # def name= (name)
+  # @name = name
+  # end
+  #
+  # def name
+  #   name
+  #   maru.name = "maru"
+  # end
 end
