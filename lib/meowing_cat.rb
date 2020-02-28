@@ -3,12 +3,12 @@ class Cat
 
   # attr_accessor :name
   attr_accessor :name
-  binding.pry 
+  
 
   def name= (name)
     @name = name
   end
-
+binding.pry 
   def name
     name = maru
   end
