@@ -10,8 +10,8 @@ class Cat
   def name
     name = maru
   end
-  maru= Cat.new
-  maru.name = "maru"
-  maru.name
-
 end
+
+maru= Cat.new
+maru.name = "maru"
+maru.name
