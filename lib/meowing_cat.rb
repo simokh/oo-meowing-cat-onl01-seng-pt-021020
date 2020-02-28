@@ -14,7 +14,3 @@ class Cat
     name
   end
 end
-binding.pry
-maru= Cat.new
-maru.name = "maru"
-maru.name
