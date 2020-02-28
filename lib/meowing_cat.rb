@@ -13,9 +13,8 @@ class Cat
   def name
     name
   end
-  binding.pry
 end
-
+binding.pry
 maru= Cat.new
 maru.name = "maru"
 maru.name
