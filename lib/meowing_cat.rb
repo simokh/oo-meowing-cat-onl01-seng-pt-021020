@@ -8,9 +8,9 @@ class Cat
   def name= (name)
     @name = name
   end
-binding.pry 
+binding.pry
   def name
-    name = maru
+    name
   end
 end
 
