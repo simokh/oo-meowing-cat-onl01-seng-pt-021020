@@ -11,7 +11,7 @@ class Cat
     name = maru
   end
   maru= Cat.new
-  maru.name = "Maru"
-  maru.name 
+  maru.name = "maru"
+  maru.name
 
 end
