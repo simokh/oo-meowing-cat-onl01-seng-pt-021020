@@ -8,12 +8,12 @@ class Cat
   def name= (name)
     @name = name
   end
-binding.pry
+# binding.pry
   def name
     name
   end
 end
 
-# maru= Cat.new
-# maru.name = "maru"
-# maru.name
+maru= Cat.new
+maru.name = "maru"
+maru.name
