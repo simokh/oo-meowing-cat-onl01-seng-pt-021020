@@ -12,6 +12,6 @@ class Cat
   end
 end
 
-maru= Cat.new
-maru.name = "maru"
-maru.name
+# maru= Cat.new
+# maru.name = "maru"
+# maru.name
