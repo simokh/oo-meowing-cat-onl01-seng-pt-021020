@@ -1,6 +1,6 @@
 class Cat
 
-  @cat = :attr_accessor
+  attr_accessor :name
 
 
 
